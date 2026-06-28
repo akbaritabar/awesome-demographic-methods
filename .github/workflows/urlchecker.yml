@@ -1,0 +1,19 @@
+name: URLChecker
+
+on: 
+  schedule:
+    - cron: '0 0 1 * *'
+  pull_request:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+    - name: urls-checker
+      uses: urlstechie/urlchecker-action@master
+      with: 
+        file_types: .md
+        include_files: README.md
+        timeout: 10
+        retry_count: 3
+        exclude_urls:
