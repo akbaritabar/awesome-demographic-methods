@@ -53,7 +53,7 @@ chronologically.
 - [University of California (UC) Berkeley's formal demography workshop](https://populationsciences.berkeley.edu/population-center/annual-workshop-on-formal-demography/berkeley-formal-demography-workshop-2024/)
 - [Monica Alexander's 2025-2026 course](https://github.com/MJAlexander/soc6708) University of Toronto, Canada
 - [LSHTM course on Introduction to Demographic Methods and Population Analysis](https://open.lshtm.ac.uk/mod/resource/view.php?id=7416)
-- [Ernesto Amaral's 2025 course](www.ernestoamaral.com/soci633-25spring.html)
+- [Ernesto Amaral's 2025 course](https://www.ernestoamaral.com/soci633-25spring.html)
 
 ### Videos and Lectures
 
@@ -92,8 +92,8 @@ chronologically.
 
 > Important papers for/about the field, not specific research. Ordered chronologically.
 
-- [Reproducible materials for “APC Curvature Plots: Displaying Nonlinear Age-Period-Cohort Patterns on Lexis Plots.”](https://osf.io/5bmyz/) by Acosta, E. (2019)
 - [Forecast accuracy hardly improves with method complexity when completing cohort fertility](https://doi.org/10.1073/pnas.1722364115) by Bohk-Ewald, C., Li, P., & Myrskylä, M. (2018)
+- [Reproducible materials for “APC Curvature Plots: Displaying Nonlinear Age-Period-Cohort Patterns on Lexis Plots.”](https://osf.io/5bmyz/) by Acosta, E. (2019)
 
 
 ## Software
@@ -120,7 +120,7 @@ chronologically.
 - [rsocsim: SOCSIM](https://cran.r-project.org/web/packages/rsocsim/index.html) by Theile  [aut, T., cre, cph, Alburez-Gutierrez, D., Snyder, M., & Calderón-Bernal, L. P. (2026)
 - [DemoKin: Estimate Population Kin Distribution](https://cran.r-project.org/web/packages/DemoKin/index.html) by Williams, I., Alburez-Gutierrez, D., Song, X., & Hal, C. (2023)
 - [rcbayes: Estimate Rogers-Castro Migration Age Schedules with Bayesian Models](https://cran.r-project.org/web/packages/rcbayes/) by Yeung, J., Alexander, M., & Riffe, T. (2022)
-
+- [TwoTimeScales: Analysis of Event Data with Two Time Scales](https://cloud.r-project.org/web/packages/TwoTimeScales/index.html) by Carollo, A., Eilers, P. H. C., & Gampe, J. (2026)
 
 ### Python
 
