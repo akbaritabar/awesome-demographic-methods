@@ -42,8 +42,7 @@ chronologically.
 
 ## Education
 
-> Learning material/courses tailored towards Computational Social
-> Science
+> Learning material/courses tailored for Demographic Methods.
 
 
 ### Online Courses and Material
@@ -90,7 +89,7 @@ chronologically.
 
 ## Selected Papers With Reproducibility Packages
 
-> Important papers for/about the field, not specific research. Ordered chronologically.
+> Papers should accompany a great reproducibility package to serve as examples. Ordered chronologically.
 
 - [Forecast accuracy hardly improves with method complexity when completing cohort fertility](https://doi.org/10.1073/pnas.1722364115) by Bohk-Ewald, C., Li, P., & Myrskylä, M. (2018)
 - [Reproducible materials for “APC Curvature Plots: Displaying Nonlinear Age-Period-Cohort Patterns on Lexis Plots.”](https://osf.io/5bmyz/) by Acosta, E. (2019)
