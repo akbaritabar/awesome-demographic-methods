@@ -33,7 +33,7 @@ chronologically.
 
 ## Books
 
-> Entries are ordered chronologically
+> Entries are ordered chronologically.
 
 - [Demography: Measuring and Modeling Population Processes](https://books.google.de/books/about/Demography.html?id=xlv2H6LpNAwC), by Preston, S., Heuveline, P., & Guillot, M. (2000)
 - [Essential Demographic Methods](https://www.hup.harvard.edu/books/9780674045576), by Wachter, K. W. (2014)
@@ -47,12 +47,12 @@ chronologically.
 
 ### Online Courses and Material
 
-> See also the [Software](#software) section for material on software tools
+> See also the [Software](#software) section for material on software tools. Ordered alphabetically.
 
-- [University of California (UC) Berkeley's formal demography workshop](https://populationsciences.berkeley.edu/population-center/annual-workshop-on-formal-demography/berkeley-formal-demography-workshop-2024/)
-- [Monica Alexander's 2025-2026 course](https://github.com/MJAlexander/soc6708) University of Toronto, Canada
-- [LSHTM course on Introduction to Demographic Methods and Population Analysis](https://open.lshtm.ac.uk/mod/resource/view.php?id=7416)
 - [Ernesto Amaral's 2025 course](https://www.ernestoamaral.com/soci633-25spring.html)
+- [LSHTM course on Introduction to Demographic Methods and Population Analysis](https://open.lshtm.ac.uk/mod/resource/view.php?id=7416)
+- [Monica Alexander's 2025-2026 course](https://github.com/MJAlexander/soc6708) University of Toronto, Canada
+- [University of California (UC) Berkeley's formal demography workshop](https://populationsciences.berkeley.edu/population-center/annual-workshop-on-formal-demography/berkeley-formal-demography-workshop-2024/)
 
 ### Videos and Lectures
 
@@ -68,7 +68,7 @@ chronologically.
 
 ### University Course Programs
 
-> Bachelor, Master, PhD programs (alphabetically by country using [ISO 3166-1 alpha 3](https://en.wikipedia.org/wiki/ISO_3166-1) codes)
+> Bachelor, Master, PhD programs (alphabetically by country using [ISO 3166-1 alpha 3](https://en.wikipedia.org/wiki/ISO_3166-1) codes).
 
 #### Bachelor programs
 
@@ -97,36 +97,36 @@ chronologically.
 
 ## Software
 
-> Focus on publicly available tools, packages and software for demographic methods, preferably or only open source material
+> Focus on publicly available tools, packages and software for demographic methods, preferably or only open source material. Ordered alphabetically (from second item onwards).
 
 
 ### R
 
 - [Awesome R](https://github.com/qinwf/awesome-R) for general resources in R
-- [migest: Tools for Estimating, Measuring and Working with Migration Data](https://cran.r-project.org/web/packages/migest/index.html) by Abel, G. J. (2025)
-- [wcde: Download Data from the Wittgenstein Centre Human Capital Data Explorer](https://cran.r-project.org/web/packages/wcde/index.html) by Abel, G. J., K.C, S., Potancokova, M., Reiter, C., Tamburini, A., & Yildiz, D. (2024)
-- [Bayesian Probabilistic Projection of International Migration](https://doi.org/10.1007/s13524-015-0415-0) by Azose, J. J., & Raftery, A. E. (2015)
-- [Christiandudel/dtms [R]](https://github.com/christiandudel/dtms) by Dudel, C. (2026)
-- [demography: Forecasting Mortality, Fertility, Migration and Population Data](https://cran.r-project.org/web/packages/demography/index.html) by Hyndman, R., Booth, H., Tickle, L., Maindonald, J., Wood, S., & R Core Team. (2025)
-- [vital: Tidy Analysis Tools for Mortality, Fertility, Migration and Population Data](https://cran.r-project.org/web/packages/vital/index.html) by Hyndman, R., Tang, S., McBain, M., & O’Hara-Wild, M. (2025)
-- [demogR: Analysis of Age-Structured Demographic Models](https://cran.r-project.org/web/packages/demogR/index.html) by Jones, J. H., & Oeppen, J. (2018)
-- [LexisPlotR: Plot Lexis Diagrams for Demographic Purposes](https://cran.r-project.org/web/packages/LexisPlotR/index.html) by Ottolinger, P., & Smilde-Becker, M. (2020)
 - [Alysonvanraalte/LifeIneq](https://github.com/alysonvanraalte/LifeIneq) by Raalte, A. van. (2025)
+- [Bayesian Probabilistic Projection of International Migration](https://doi.org/10.1007/s13524-015-0415-0) by Azose, J. J., & Raftery, A. E. (2015)
+- [bayesPop: Probabilistic Population Projections](https://doi.org/10.18637/jss.v075.i05) by Ševčíková, H., & Raftery, A. E. (2016)
+- [Christiandudel/dtms [R]](https://github.com/christiandudel/dtms) by Dudel, C. (2026)
 - [DemoDecomp: Decompose Demographic Functions](https://cran.r-project.org/web/packages/DemoDecomp/index.html) by Riffe, T. (2024)
+- [demogR: Analysis of Age-Structured Demographic Models](https://cran.r-project.org/web/packages/demogR/index.html) by Jones, J. H., & Oeppen, J. (2018)
+- [demography: Forecasting Mortality, Fertility, Migration and Population Data](https://cran.r-project.org/web/packages/demography/index.html) by Hyndman, R., Booth, H., Tickle, L., Maindonald, J., Wood, S., & R Core Team. (2025)
+- [DemoKin: Estimate Population Kin Distribution](https://cran.r-project.org/web/packages/DemoKin/index.html) by Williams, I., Alburez-Gutierrez, D., Song, X., & Hal, C. (2023)
 - [DemoTools](https://timriffe.github.io/DemoTools/index.html) by Riffe, T. (2025)
 - [HMDHFDplus: Read Human Mortality Database and Human Fertility Database Data from the Web](https://cran.r-project.org/web/packages/HMDHFDplus/index.html) by Riffe, T., Boe, C., Hilton, J., Goldstein, J., Holzman, S., & Yoo, S. H. (2025)
-- [bayesPop: Probabilistic Population Projections](https://doi.org/10.18637/jss.v075.i05) by Ševčíková, H., & Raftery, A. E. (2016)
-- [rsocsim: SOCSIM](https://cran.r-project.org/web/packages/rsocsim/index.html) by Theile  [aut, T., cre, cph, Alburez-Gutierrez, D., Snyder, M., & Calderón-Bernal, L. P. (2026)
-- [DemoKin: Estimate Population Kin Distribution](https://cran.r-project.org/web/packages/DemoKin/index.html) by Williams, I., Alburez-Gutierrez, D., Song, X., & Hal, C. (2023)
+- [LexisPlotR: Plot Lexis Diagrams for Demographic Purposes](https://cran.r-project.org/web/packages/LexisPlotR/index.html) by Ottolinger, P., & Smilde-Becker, M. (2020)
+- [migest: Tools for Estimating, Measuring and Working with Migration Data](https://cran.r-project.org/web/packages/migest/index.html) by Abel, G. J. (2025)
 - [rcbayes: Estimate Rogers-Castro Migration Age Schedules with Bayesian Models](https://cran.r-project.org/web/packages/rcbayes/) by Yeung, J., Alexander, M., & Riffe, T. (2022)
+- [rsocsim: SOCSIM](https://cran.r-project.org/web/packages/rsocsim/index.html) by Theile  [aut, T., cre, cph, Alburez-Gutierrez, D., Snyder, M., & Calderón-Bernal, L. P. (2026)
 - [TwoTimeScales: Analysis of Event Data with Two Time Scales](https://cloud.r-project.org/web/packages/TwoTimeScales/index.html) by Carollo, A., Eilers, P. H. C., & Gampe, J. (2026)
+- [vital: Tidy Analysis Tools for Mortality, Fertility, Migration and Population Data](https://cran.r-project.org/web/packages/vital/index.html) by Hyndman, R., Tang, S., McBain, M., & O’Hara-Wild, M. (2025)
+- [wcde: Download Data from the Wittgenstein Centre Human Capital Data Explorer](https://cran.r-project.org/web/packages/wcde/index.html) by Abel, G. J., K.C, S., Potancokova, M., Reiter, C., Tamburini, A., & Yildiz, D. (2024)
 
 ### Python
 
 - [Awesome Python](https://github.com/vinta/awesome-python) (other lists: [1](https://github.com/kirang89/pycrumbs), [2](https://github.com/svaksha/pythonidae), [3](https://github.com/trekhleb/learn-python)) for general resources in Python
 - [Cacrespo/pylexis](https://github.com/cacrespo/pylexis) by Crespo, C. A. (2024)
-- [Solving Actuarial Math with Python](https://actuarialmath-guide.readthedocs.io/en/latest/README.html) by Terence Lim
 - [PyCCM: cohort component based projections](https://github.com/crahal/PyCCM)
+- [Solving Actuarial Math with Python](https://actuarialmath-guide.readthedocs.io/en/latest/README.html) by Terence Lim
 
 ### Stata
 
@@ -139,13 +139,15 @@ chronologically.
 
 ## Miscellaneous
 
-> Resources that do not fit into other categories
+> Resources that do not fit into other categories.
 
 - [Applied Demography Toolbox](https://applieddemogtoolbox.github.io/) and [here](https://github.com/AppliedDemogToolbox/applieddemogtoolbox.github.io)
 
 
 
 ## Relevant Awesome Lists
+
+> Ordered alphabetically.
 
 - [Awesome Causality](https://github.com/napsternxg/awesome-causality)
 - [Awesome Community Detection](https://github.com/benedekrozemberczki/awesome-community-detection)
