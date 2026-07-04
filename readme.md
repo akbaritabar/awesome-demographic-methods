@@ -38,6 +38,12 @@ chronologically.
 - [Demography: Measuring and Modeling Population Processes](https://books.google.de/books/about/Demography.html?id=xlv2H6LpNAwC), by Preston, S., Heuveline, P., & Guillot, M. (2000)
 - [Essential Demographic Methods](https://www.hup.harvard.edu/books/9780674045576), by Wachter, K. W. (2014)
 
+### Online books
+
+> Entries are ordered chronologically.
+
+- [Applied Demographic Data Analysis](https://coreysparks.github.io/appdem_Book/) by Applied Demographic Data Analysis (2023)
+- [The Epidemiologist R Handbook](https://epirhandbook.com/en/) by The Epidemiologist R Handbook (2024)
 
 
 ## Education
@@ -91,6 +97,7 @@ chronologically.
 
 > Papers should accompany a great reproducibility package to serve as examples. Ordered chronologically.
 
+- [Analyzing the young adult mortality hump in R with MortHump](https://doi.org/10.4054/MPIDR-TR-2018-003) by Remund, A., Camarda, C. G., & Riffe, T. (2018)
 - [Forecast accuracy hardly improves with method complexity when completing cohort fertility](https://doi.org/10.1073/pnas.1722364115) by Bohk-Ewald, C., Li, P., & Myrskylä, M. (2018)
 - [Reproducible materials for “APC Curvature Plots: Displaying Nonlinear Age-Period-Cohort Patterns on Lexis Plots.”](https://osf.io/5bmyz/) by Acosta, E. (2019)
 
@@ -106,6 +113,7 @@ chronologically.
 - [Alysonvanraalte/LifeIneq](https://github.com/alysonvanraalte/LifeIneq) by Raalte, A. van. (2025)
 - [Bayesian Probabilistic Projection of International Migration](https://doi.org/10.1007/s13524-015-0415-0) by Azose, J. J., & Raftery, A. E. (2015)
 - [bayesPop: Probabilistic Population Projections](https://doi.org/10.18637/jss.v075.i05) by Ševčíková, H., & Raftery, A. E. (2016)
+- [biogrowth: Modelling of Population Growth](https://cran.r-project.org/web/packages/biogrowth/index.html) by Garre, A., Koomen, J., Besten, H. den, & Zwietering, M. (2025)
 - [Christiandudel/dtms [R]](https://github.com/christiandudel/dtms) by Dudel, C. (2026)
 - [DemoDecomp: Decompose Demographic Functions](https://cran.r-project.org/web/packages/DemoDecomp/index.html) by Riffe, T. (2024)
 - [demogR: Analysis of Age-Structured Demographic Models](https://cran.r-project.org/web/packages/demogR/index.html) by Jones, J. H., & Oeppen, J. (2018)
@@ -115,11 +123,17 @@ chronologically.
 - [HMDHFDplus: Read Human Mortality Database and Human Fertility Database Data from the Web](https://cran.r-project.org/web/packages/HMDHFDplus/index.html) by Riffe, T., Boe, C., Hilton, J., Goldstein, J., Holzman, S., & Yoo, S. H. (2025)
 - [LexisPlotR: Plot Lexis Diagrams for Demographic Purposes](https://cran.r-project.org/web/packages/LexisPlotR/index.html) by Ottolinger, P., & Smilde-Becker, M. (2020)
 - [migest: Tools for Estimating, Measuring and Working with Migration Data](https://cran.r-project.org/web/packages/migest/index.html) by Abel, G. J. (2025)
+- [popdemo: Demographic Modelling Using Projection Matrices](https://cran.r-project.org/web/packages/popdemo/index.html) by Stott, I., Hodgson, D., Townley, S., & Ellner, S. (2026)
 - [rcbayes: Estimate Rogers-Castro Migration Age Schedules with Bayesian Models](https://cran.r-project.org/web/packages/rcbayes/) by Yeung, J., Alexander, M., & Riffe, T. (2022)
+- [Rcompadre: Utilities for using the “COM(P)ADRE” Matrix Model Database](https://cran.r-project.org/web/packages/Rcompadre/index.html) by Barks, P., Buss, D., Salguero-Gomez, R., Stott, I., Petry, W. K., James, T., … Levin, S. (2026)
 - [rsocsim: SOCSIM](https://cran.r-project.org/web/packages/rsocsim/index.html) by Theile  [aut, T., cre, cph, Alburez-Gutierrez, D., Snyder, M., & Calderón-Bernal, L. P. (2026)
+- [tidycensus: Load US Census Boundary and Attribute Data as “tidyverse” and ’sf’-Ready Data Frames](https://cran.r-project.org/web/packages/tidycensus/) by Walker, K., Herman, M., & Eberwein, K. (2026)
 - [TwoTimeScales: Analysis of Event Data with Two Time Scales](https://cloud.r-project.org/web/packages/TwoTimeScales/index.html) by Carollo, A., Eilers, P. H. C., & Gampe, J. (2026)
+- [ungroup: Penalized Composite Link Model for Efficient Estimation of Smooth Distributions from Coarsely Binned Data](https://cran.r-project.org/web/packages/ungroup/index.html) by Pascariu, M. D., Rizzi, S., Schoeley, J., & Danko, M. J. (2024)
 - [vital: Tidy Analysis Tools for Mortality, Fertility, Migration and Population Data](https://cran.r-project.org/web/packages/vital/index.html) by Hyndman, R., Tang, S., McBain, M., & O’Hara-Wild, M. (2025)
 - [wcde: Download Data from the Wittgenstein Centre Human Capital Data Explorer](https://cran.r-project.org/web/packages/wcde/index.html) by Abel, G. J., K.C, S., Potancokova, M., Reiter, C., Tamburini, A., & Yildiz, D. (2024)
+
+
 
 ### Python
 
