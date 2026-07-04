@@ -163,14 +163,20 @@ chronologically.
 ### GitHub Organizations
 
 - [AppliedDemogToolbox](https://github.com/AppliedDemogToolbox)
+- [Center for Studies in Demography and Ecology](https://github.com/CSDE-UW)
 - [DEBIAS](https://github.com/de-bias)
 - [Eurostat](https://github.com/eurostat)
+- [Formal Demography Working Group](https://github.com/formaldemography)
+- [Institute for Health Metrics and Evaluation](https://github.com/ihmeuw)
 - [Leverhulme Centre for Demographic Science](https://github.com/OxfordDemSci)
 - [Max Planck Institute for Demographic Research](https://github.com/MPIDR)
 - [Open Science Demography](https://github.com/OpenScienceDemography)
 - [Probabilistic Projections Group](https://github.com/PPgp)
 - [UC Berkeley Demography](https://github.com/berkeley-demography)
+- [US Census Bureau](https://github.com/uscensusbureau)
+- [World Bank](https://github.com/worldbank)
 - [WorldPop](https://github.com/wpgp)
+
 
 ## Relevant Awesome Lists
 
