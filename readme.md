@@ -15,8 +15,9 @@ chronologically.
 ## Contents
 
 - __[Books](#books)__
+  - [Online Books](#online-books)
 - __[Education](#education)__
-  - [Online courses and Material](#online-courses-and-material)
+  - [Online Courses and Material](#online-courses-and-material)
   - [Videos and Lectures](#videos-and-lectures)
   - [Workshops](#workshops)
   - [University Course Programs](#university-course-programs)
@@ -27,6 +28,7 @@ chronologically.
   - [Stata](#stata)
   <!-- - [Tutorials](#tutorials) -->
 - __[Miscellaneous](#miscellaneous)__
+  - [GitHub Organizations](#github-organizations)
 - __[Relevant Awesome Lists](#relevant-awesome-lists)__
 - __[Contributing](#contributing)__
 
@@ -42,6 +44,7 @@ chronologically.
 
 > Entries are ordered chronologically.
 
+- [Research Methods in Demography at the University of Washington](https://hanowell.github.io/uwsoc533a/index.html) by Hanowell, B. (2022)
 - [Applied Demographic Data Analysis](https://coreysparks.github.io/appdem_Book/) by Applied Demographic Data Analysis (2023)
 - [The Epidemiologist R Handbook](https://epirhandbook.com/en/) by The Epidemiologist R Handbook (2024)
 
@@ -157,6 +160,16 @@ chronologically.
 
 - [Applied Demography Toolbox](https://applieddemogtoolbox.github.io/) and [here](https://github.com/AppliedDemogToolbox/applieddemogtoolbox.github.io)
 
+### GitHub Organizations
+
+- [AppliedDemogToolbox](https://github.com/AppliedDemogToolbox)
+- [DEBIAS](https://github.com/de-bias)
+- [Eurostat](https://github.com/eurostat)
+- [Leverhulme Centre for Demographic Science](https://github.com/OxfordDemSci)
+- [Max Planck Institute for Demographic Research](https://github.com/MPIDR)
+- [Probabilistic Projections Group](https://github.com/PPgp)
+- [UC Berkeley Demography](https://github.com/berkeley-demography)
+- [WorldPop](https://github.com/wpgp)
 
 
 ## Relevant Awesome Lists
