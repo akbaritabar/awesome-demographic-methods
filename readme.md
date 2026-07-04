@@ -167,10 +167,10 @@ chronologically.
 - [Eurostat](https://github.com/eurostat)
 - [Leverhulme Centre for Demographic Science](https://github.com/OxfordDemSci)
 - [Max Planck Institute for Demographic Research](https://github.com/MPIDR)
+- [Open Science Demography](https://github.com/OpenScienceDemography)
 - [Probabilistic Projections Group](https://github.com/PPgp)
 - [UC Berkeley Demography](https://github.com/berkeley-demography)
 - [WorldPop](https://github.com/wpgp)
-
 
 ## Relevant Awesome Lists
 
