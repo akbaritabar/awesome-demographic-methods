@@ -357,3 +357,5 @@ chronologically.
 ## Contributing
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+
+[Back to top](#contents)
