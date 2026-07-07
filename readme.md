@@ -47,6 +47,7 @@ chronologically.
 - [Research Methods in Demography at the University of Washington](https://hanowell.github.io/uwsoc533a/index.html) by Hanowell, B. (2022)
 - [Applied Demographic Data Analysis](https://coreysparks.github.io/appdem_Book/) by Applied Demographic Data Analysis (2023)
 - [The Epidemiologist R Handbook](https://epirhandbook.com/en/) by The Epidemiologist R Handbook (2024)
+- [Demographic methods for the Statistical office](https://share.scb.se/ov9993/data/publikationer/statistik/_publikationer/ov9999_2009a01_br_x103br0902.pdf) by Hartmann, M. (2009)
 
 
 ## Education
@@ -62,11 +63,12 @@ chronologically.
 - [LSHTM course on Introduction to Demographic Methods and Population Analysis](https://open.lshtm.ac.uk/mod/resource/view.php?id=7416)
 - [Monica Alexander's 2025-2026 course](https://github.com/MJAlexander/soc6708) University of Toronto, Canada
 - [University of California (UC) Berkeley's formal demography workshop](https://populationsciences.berkeley.edu/population-center/annual-workshop-on-formal-demography/berkeley-formal-demography-workshop-2024/)
+- [Statistics and Population](https://grodri.github.io/demography/) by Germán Rodríguez (2022)
 
 ### Videos and Lectures
 
-<!-- - [A gentle introduction to network science](https://www.youtube.com/watch?v=L6CqqlILBCI), by Renaud Lambiotte, University of Oxford (2018) -->
-
+- [YouTube: Biodemography](https://www.youtube.com/channel/UCRLbCaxpQRZfZtP3cvDiBUA)
+- [YouTube: Demographile](https://www.youtube.com/channel/UCyLuUrfsZ1Cqx7X12aYUdUg)
 
 
 ### Workshops
@@ -159,6 +161,9 @@ chronologically.
 > Resources that do not fit into other categories.
 
 - [Applied Demography Toolbox](https://applieddemogtoolbox.github.io/) and [here](https://github.com/AppliedDemogToolbox/applieddemogtoolbox.github.io)
+- [BayesPop; materials by group at the University of Washington](https://bayespop.csss.washington.edu/)
+- [Tools for Demographic Estimation by IUSSP and UNFPA](https://demographicestimation.iussp.org/)
+
 
 ### GitHub Organizations
 
