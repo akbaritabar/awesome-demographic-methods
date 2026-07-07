@@ -63,7 +63,7 @@ chronologically.
 - [LSHTM course on Introduction to Demographic Methods and Population Analysis](https://open.lshtm.ac.uk/mod/resource/view.php?id=7416)
 - [Monica Alexander's 2025-2026 course](https://github.com/MJAlexander/soc6708) University of Toronto, Canada
 - [University of California (UC) Berkeley's formal demography workshop](https://populationsciences.berkeley.edu/population-center/annual-workshop-on-formal-demography/berkeley-formal-demography-workshop-2024/)
-- [Statistics and Population](https://grodri.github.io/demography/) by Germán Rodríguez (22)
+- [Statistics and Population](https://grodri.github.io/demography/) by Germán Rodríguez (2022)
 
 ### Videos and Lectures
 
@@ -161,8 +161,8 @@ chronologically.
 > Resources that do not fit into other categories.
 
 - [Applied Demography Toolbox](https://applieddemogtoolbox.github.io/) and [here](https://github.com/AppliedDemogToolbox/applieddemogtoolbox.github.io)
-- [BayesPop](https://bayespop.csss.washington.edu/)
-- [Tools for Demographic Estimation](https://demographicestimation.iussp.org/)
+- [BayesPop; materials by group at the University of Washington](https://bayespop.csss.washington.edu/)
+- [Tools for Demographic Estimation by IUSSP and UNFPA](https://demographicestimation.iussp.org/)
 
 
 ### GitHub Organizations
